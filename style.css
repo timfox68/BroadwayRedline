@@ -9,6 +9,10 @@ h1 {
   font-weight: bold;
 }
 
+ul {
+  list-style: none;
+}
+
 h2 {
   font-size: 32px;
   font-weight: bold;
